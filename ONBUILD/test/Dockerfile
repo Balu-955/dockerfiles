@@ -1,1 +1,1 @@
-FROM 9ec000b31980
+FROM onbuild:v1.0
